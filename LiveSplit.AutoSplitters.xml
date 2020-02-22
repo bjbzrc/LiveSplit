@@ -7658,4 +7658,14 @@
     <Type>Script</Type>
     <Description>RTA Autosplit and Autostart (by Lyliya)</Description>
   </AutoSplitter>
+<AutoSplitter>
+    <Games>
+      <Game>Metroid Fusion</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/bjbzrc/fusion-autosplitter/master/fusionAutosplitter.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>RTA auto splitting and auto starting for Metroid Fusion on emulators</Description>
+</AutoSplitter>
 </AutoSplitters>
